@@ -1,89 +1,97 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: Resume
+title: Odiseo Cerrato's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Odiseo Cerrato
+Student looking for employment opportunities to gain more valuable experiences and connections.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="cer17007@byui.edu">cer17007@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected Graduation Date 2022`
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
+- Bachelor´s in Business Supply Chain Management
+  - Minor in Data Science 
+  - Minor in Finance
 
-- 4.0 Major GPA
+- Skills                       			
+    - Supply Chain and Logistic Management
+    - Manage Business inventories and data analysis
+    - Fluent in Spanish & English written and conversational			
+    - Proficient in Microsoft Office Suite		 
+    - BYUI Lean/Six Sigma Green Belt Certificate
+
+- Programming Skills
+    - Python Programming Language
+    - ANOVA tests and others 
+    - MySQL Programming Language
+    - Basic JavaScript
+    - Basic VBA
+
 
 
 ## Related Experience
 
-### Internships
+### Work Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`December 2020 - Present`
+__I.T. Student Project Manager__, Rexburg, Id
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+•	Restructure enterprise level software project implementation affecting over 20,000 users to reach quality and schedule objectives established by key stakeholders
 
-### Data Science Lead
+•	Coordinated vendor relationships in accomplishing IT software integrations and data agreements
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+•	Lead project timelines to ensure technology solutions are delivered on time using Microsoft SharePoint
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+•	Revise project status to check status on all projects in the IT department 
 
 
-## Service and Work History
+### Kiosk Attendant
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`September 2019 - December 2020`
+__University Food Services__, Rexburg, Id
+•	Provide customer service to a wide variety of people, including students and faculty members
+
+•	Manage different orders within a short amount of time
+
+•	Organize and manage the count of items available and time needed to order new supplies
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`August 2013 - February 2014`
+__Small Business Owner__, Tegucigalpa, HN
+
+•	Earned a 60% profit margin, by targeting marketing to the most likely buyers and obtaining frequent buyers
+
+•	Managed accounting and generate profit and losses reports 
+
+•	Created and executed a excel sheets to manage inventories and sales	
+
+## Service History
+
+`2017-2019`
+__Full-Time Volunteer Missionary__, Dominican Republic
+
+•	Developed abilities such as: Social Skills, Effective Planning, Budget Management, Time Management, Discipline, Leadership, Creativity, Initiative, Effective Decision Making, Accounting Skills, etc  
+
+•	Worked as Financial Secretary for a period of 7 months, which required High Accuracy, Customer Service, and Problem-Solving Skills to manage over 150 credit cards, and all processes regarding those accounts, to provide the best experience for those in the mission
+
+•	Managed Excel Sheets to organize data, and have backup information to analyse information to take better decisions
+
+•	Purchased items for bookstore, for missionary use, from The Church of Jesus Christ of Latter-Day Saints online bookstore
+
+•	Managed incoming inventories and placed new orders for soon to be out of stock items
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2021 -->
 
 
